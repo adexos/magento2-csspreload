@@ -2,7 +2,7 @@
   "name": "adexos/magento2-csspreload",
   "description": "Magento 2 module that allows loading of stylesheets with the preload attribute",
   "type": "magento2-module",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "license": [
     "MIT"
   ],
@@ -13,7 +13,7 @@
     }
   },
   "require": {
-    "magento/framework": "*",
+    "magento/framework": ">=100.1.0",
     "psr/log": "~1.0"
   },
   "authors": [
