@@ -1,6 +1,6 @@
 <?php
 
-namespace Meanbee\CSSPreload\Block\Head;
+namespace Adexos\CSSPreload\Block\Head;
 
 /**
  * @method array getAssets()
